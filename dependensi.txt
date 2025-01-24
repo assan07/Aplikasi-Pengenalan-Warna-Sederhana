@@ -1,0 +1,9 @@
+install environment
+python -m venv venv
+
+activate venv
+./venv/Scripts/activate
+
+install library
+pip install opencv-python
+pip install opencv-contrib-python
