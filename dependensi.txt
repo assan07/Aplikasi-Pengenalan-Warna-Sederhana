@@ -6,4 +6,7 @@ activate venv
 
 install library
 pip install opencv-python
-pip install opencv-contrib-python
+pip install pandans
+pip install sklearn
+
+create: 24-01-2025 by hzn-lly
